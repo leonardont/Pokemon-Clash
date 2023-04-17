@@ -1,0 +1,79 @@
+# depslib dependency file v1.0
+1679448397 source:c:\users\msouz\onedrive\Área de trabalho\jogofilaversion1\jogofilaversion1\main.c
+	"raylib.h"
+	<stdio.h>
+	<stdlib.h>
+
+1679475254 source:f:\programacaoavancada2023\jogofilaversion1\jogofilaversion1 - pc\main.c
+	"raylib.h"
+	<stdio.h>
+	<stdlib.h>
+
+1679497925 source:c:\users\usuario\desktop\mileny\jogofilaversion1\jogofilaversion1 - pc\main.c
+	"raylib.h"
+	<stdio.h>
+	<stdlib.h>
+
+1680823646 source:e:\programacaoavancada2023\jogofilaversion1 - 2\jogofilaversion1 - pc\main.c
+	"raylib.h"
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+
+1679758092 source:f:\programacaoavancada2023\jogofilaversion1 - 2\jogofilaversion1 - pc\main.c
+	"raylib.h"
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+
+1681351781 source:c:\users\leonardo\desktop\jogo fila - leo v1.3\jogofila\main.c
+	"raylib.h"
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+
+1681413422 source:f:\programacaoavancada2023\jogofila\main.c
+	"raylib.h"
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+
+1681428702 source:c:\users\leonardo\desktop\jogofila-20230413t211956z-001\jogofila\main.c
+	"raylib.h"
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+
+1681431786 source:e:\programacaoavancada2023\jogo fila v2.0 (1)\jogofila-20230413t211956z-001 - copia\jogofila\main.c
+	"raylib.h"
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+
+1681471610 source:f:\programacaoavancada2023\jogo fila v2.0 (1)\jogofila-20230413t211956z-001 - copia\jogofila\main.c
+	"raylib.h"
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+
+1681500525 source:c:\users\leonardo\desktop\jogo fila v2.0 (1)-20230414t190736z-001\jogo fila v2.0 (1)\jogofila-20230413t211956z-001 - copia\jogofila\main.c
+	"raylib.h"
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+
+1681500526 source:e:\programacaoavancada2023\pokémon clash v2.0\main.c
+	"raylib.h"
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+
