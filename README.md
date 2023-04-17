@@ -18,11 +18,14 @@
 
 <br>
 
-![](assets/prints/gameplay2.png)
+<p align="center">
+<img src="assets/prints/gameplay2.png">
+</p>
 
 <br>
 
 <p align="center">Click the <b>attack buttons</b> shown at the bottom of your screen to attack your opponent.</p>
+<br>
 <p align="center">Each attack has its weaknesses and strengths. For example...</p>
 <h4 align="center">Fire wins against grass and air. Why?</h4>
 <p align="center">Fire burns leaves, and makes a big fire tornado if it encounters a big air gust!</p>
@@ -31,18 +34,25 @@
 <h4 align="center">Grass wins against water. Why?</h4>
 <p align="center">Trees grow when you water them. This should be enough explaining!</p>
 <h4 align="center">Air wins against grass. Why?</h4>
-<p align="center">Annoying leaves hit your face when you're around a gale.</p>
+<p align="center">Annoying leaves hit your face when you're around a gale!</p>
 
 <br>
-![](assets/prints/menu.png)
+
+<p align="center">
+<img src="assets/prints/menu.png">
+</p>
 
 <br> 
 
-![](assets/prints/gameplay1.png)
+<p align="center">
+<img src="assets/prints/gameplay1.png">
+</p>
 
 <br> 
 
-![](assets/prints/gameplay4.png)
+<p align="center">
+<img src="assets/prints/gameplay3.png">
+</p>
 
 <br> 
 
