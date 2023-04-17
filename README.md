@@ -34,8 +34,9 @@
 <p align="center">Annoying leaves hit your face when you're around a gale.</p>
 
 <br>
-
+<p align="center">
 ![](assets/prints/menu.png)
+</p>
 
 <br> 
 
